@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">SimpleTorch</string>
+    <string name="welcome_textview">Welcome to Simple Torch! :)</string>
+    <string name="light_on_button">Light On</string>
+	<string name="light_off_button">Light Off</string>
+	<string name="init">Initializing Camera</string>
+	<string name="light_on">Light on!</string>
+	<string name="light_off">Light Off!</string>
+	<string name="camera_error">Unable to open Camera :(</string>
+	<string name="camera_good">Ready for illumination!</string>
+</resources>
